@@ -1,6 +1,6 @@
 # Organo
 
-### Project developed in a video class on the aaaaaaaa platform that aims to register instructors.
+### Project developed in a video class on the [Alura](https://www.alura.com.br) platform that aims to register instructors.
 
 Website hosted at [Vercel](https://vercel.com/), access [here](https://organo-phi-beryl.vercel.app/).
 
